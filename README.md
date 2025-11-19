@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-ShahzaibAnwar
-- 👀 I’m interested in development/data science
+- 👀 I’m interested in AI/Data Science
 - 🌱 I’m currently learning BSCS
 - 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me: just email
